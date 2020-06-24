@@ -4,3 +4,5 @@ add a sense
 这是一个新的branch
 
 修改后user.name和user.email后，检查是否还能正常提交
+
+user.email改回来
